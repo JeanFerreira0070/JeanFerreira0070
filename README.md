@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jean Xavier
 
-<!--
-**JeanFerreira0070/JeanFerreira0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation-focused Systems Developer with hands-on experience building workflows using n8n and integrating tools like Google Sheets, Google Forms, Google Calendar, and Gmail.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build process automation workflows
+- Integrate APIs and web services
+- Create solutions to reduce manual tasks
+- Design validation logic and business rules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- n8n
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+## 📂 Featured Projects
+- Clinic Appointment Automation (n8n)
+- PDF Medical Report Processing
+- Google Forms → Sheets → Calendar Automations
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/jeanferreira0070
